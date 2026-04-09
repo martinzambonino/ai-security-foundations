@@ -1,7 +1,7 @@
 # AI Security Foundations
 
-![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/MartinZamboninoG/ai-security-foundations/ci.yml?branch=main)
-![License](https://img.shields.io/github/license/MartinZamboninoG/ai-security-foundations)
+![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/martinzambonino/ai-security-foundations/ci.yml?branch=main)
+![License](https://img.shields.io/github/license/martinzambonino/ai-security-foundations)
 
 ## What It Does
 
@@ -27,7 +27,7 @@ An educational exploration of security challenges, threats, and defenses in Arti
 
 ```bash
 # Clone the repository
-git clone https://github.com/MartinZamboninoG/ai-security-foundations.git
+git clone https://github.com/martinzambonino/ai-security-foundations.git
 cd ai-security-foundations
 
 # Create virtual environment
